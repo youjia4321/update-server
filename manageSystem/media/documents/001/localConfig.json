@@ -1,0 +1,7 @@
+{
+    "host": "222.209.92.120",
+    "port": 8066,
+    "user": "root",
+    "passwd": "123456",
+    "db": "centermanager"
+}
